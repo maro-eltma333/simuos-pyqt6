@@ -1,14 +1,14 @@
-    # SimuOS - PyQt6 Desktop OS Simulator
+# SimuOS - PyQt6 Desktop OS Simulator
 
-    <p align="center">
-    <img src="screenshots/03-desktop.png" alt="SimuOS Desktop" width="900"/>
-    </p>
+<p align="center">
+<img src="screenshots/03-desktop.png" alt="SimuOS Desktop" width="900"/>
+</p>
 
-    <p align="center">
-    <b>Modern desktop-like operating system simulation built with Python + PyQt6</b>
-    </p>
+<p align="center">
+<b>Modern desktop-like operating system simulation built with Python + PyQt6</b>
+</p>
 
-    SimuOS demonstrates core OS ideas in an interactive GUI: boot flow, login, desktop apps, virtual file system, terminal commands, task monitoring, and session persistence.
+SimuOS demonstrates core OS ideas in an interactive GUI: boot flow, login, desktop apps, virtual file system, terminal commands, task monitoring, and session persistence.
 
 ## What I Made
 
@@ -103,9 +103,5 @@
     ### 📊 Task Manager
     ![Task Manager](screenshots/08-task-manager.png)
 
-    ## Repository
 
-    - Name: `simuos-pyqt6`
-    - URL: `https://github.com/maro-eltma333/simuos-pyqt6`
-    - Description: `Modern PyQt6 desktop OS simulator with boot, login, VFS, terminal, text editor, settings, and task manager.`
 
